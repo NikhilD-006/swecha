@@ -118,7 +118,7 @@ A driven and curious problem-solver with a passion for innovation and creating m
 ## 👥 Memberships
 
 - **Core Member:** VJ-Community (2024 – Present)  
-- **Core Member:** VJ-Vibes(2024-Present)
+- **Core Member:** VJ Vibes(2024-Present)
 - **Member:** ACM (2023 – Present)  
 
 ---
