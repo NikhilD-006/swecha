@@ -48,7 +48,7 @@ A driven and curious problem-solver with a passion for innovation and creating m
 - **Co-founder & Secretary**, *VJ-Community* (Mar 2024 – Present)  
   Managing a real-time platform to share student information.
 
-- **Podcast Editor**, *VJ VIBES* (2024 – Present)  
+- **Podcast Lead Editor**, *VJ VIBES* (2024 – Present)  
   Editing and refining recordings for the VJ VIBES podcast.
 
 - **Campus Innovations**, *VJ-Bus* (2025)  
@@ -118,6 +118,7 @@ A driven and curious problem-solver with a passion for innovation and creating m
 ## 👥 Memberships
 
 - **Core Member:** VJ-Community (2024 – Present)  
+- **Core Member:** VJ-Vibes(2024-Present)
 - **Member:** ACM (2023 – Present)  
 
 ---
